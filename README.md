@@ -1,6 +1,6 @@
 # How to Check Internet Connection in HTML CSS & JavaScript
 
-
+![How-to-Check-Internet-Connection-in-HTML-CSS-JavaScript](https://user-images.githubusercontent.com/46256884/233932142-42236562-4093-4ac8-9522-076d68fda51a.jpg)
 
 In today’s world, the internet is essential for many websites and applications to function properly. To provide a seamless experience for users, it’s important to check the internet connection and take the necessary actions.
 
